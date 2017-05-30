@@ -60,6 +60,6 @@ A reasonable question to ask is what color is this? You can begin to guess. The 
 
 ### The Assignment
 
-All of the instructions for the lab assignment are included in the document included in this repository. You will have to clone the repo to your computer and open it with LibreOffice or Microsoft Word in order to edit it.
+All of the instructions for the lab assignment are included in the document included in this repository. You will have to either clone the repo to your computer or download the `.odt` file directly from the repository and open it with LibreOffice or Microsoft Word in order to edit it.
 
 Once you have completed the assignment, save it and push the repository back to your master branch for grading.
