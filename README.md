@@ -8,4 +8,24 @@
 
 00000000000000000000000000001101
 
-A 2s complement number is negated by creating the number's 1s complement
+A 2s complement number is negated by creating the number's 1s complement (each 0 becomes 1 and each 1 becomes 0) and then add 1 to the result using binary addition. Here's the negation of the 2s complement form of 13<sub>10</sub> to get the representation for -13<sub>10</sub> in 2s complement form:
+
+
+
+<table>
+    <tr>
+        <th><br></th>
+        <th>1111  1111 1111 1111 1111 1111 1111 0010<br></th>
+    </tr>
+    <tr>
+        <td>+</td>
+        <td>0000 0000 0000 0000 0000 0000 0000 0001<br></td>
+    </tr>
+    <tr>
+        <td colspan="2"><hr></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>1111 1111 1111 1111 1111 1111 1111 0011 <br></td>
+    </tr>
+</table>
